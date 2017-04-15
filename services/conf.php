@@ -6,9 +6,9 @@ class CONF {
 
 	/* Data configuration for database */
 	public $DB_SERVER = "localhost";
-	public $DB_USER = "tumbas_admin";
+	public $DB_USER = "root";
 	public $DB_PASSWORD = "9undulP4cul";
-	public $DB_NAME = "tumbas_admin";
+	public $DB_NAME = "admin_db";
 	
 	/* FCM key for notification */
 	public $FCM_KEY = "AAAAsOM5kL8:APA91bFmeNbRrBTaXPTDQqN720vYAC9wPiTC_txiVNI-WRwmrKC7h6o1pUCzhoyG_6YaPAGOxw3gWilsMTQxE_HMjB5CS9fUVVXBhh_zhNwHbEn-DXuYGnfSWSb5rEyktMzTlECF-hie";
